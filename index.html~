@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+		<title>Valentine's Day Card</title>
+		<meta name="viewport" content="width=device-width,initial-scale=1.0">
+		<link href="css/smooth/jquery-ui-1.10.3.custom.css" rel="stylesheet">
+		<link type="text/css" rel="stylesheet" href="reset.css">
+		<link rel="stylesheet" href="vex-2.0.1/css/vex.css" />
+		<link rel="stylesheet" href="vex-2.0.1/css/vex-theme-default.css" />
+		<link type="text/css" rel="stylesheet" href="main.css">
+		<script src="js/jquery-2.0.3.js"></script>
+		<script src="js/jquery-ui-1.10.3.custom.js"></script>
+		<script src="vex-2.0.1/js/vex.combined.min.js"></script>
+		<script>vex.defaultOptions.className = 'vex-theme-default';</script>
+		<script type="text/javascript" src="application.js"></script>
+	</head>
+	<body>
+		<header>
+		</header>
+		<center>
+			<h1>Happy Valentine's Day</h1>
+			<img src="valentines.svgz">
+			<p>You are my love and desire. You are all that any man could ask for. Thank you for being my beautiful and loving wife. Happy Valentine's Day!</p>
+			<a href="http://www.mainlinefoco.com/" target="_blank">click here to get your present!</a>
+		</center>
+	</body>
+</html>

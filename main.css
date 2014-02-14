@@ -1,0 +1,64 @@
+body {
+	font-family: 'AvenirNext-Regular', Helvetica, sans-serif;
+}
+
+.vex-content.popup {
+	width:200px !important;
+	color:#fff !important;
+	background-color:pink !important;
+}
+
+.vex-content.popup p {
+	font-weight:300 !important;
+	font-size:1em !important;
+	text-align:center;
+	color:#fff !important;
+}
+
+.vex-overlay.popupOverlay {
+	background:none !important;
+}
+
+center {
+	margin:30px;
+	border:15px solid pink;
+}
+
+center h1 {
+	margin-top:20px;
+	margin-bottom:20px;
+	font-size:3em;
+	font-weight:400;
+	color:#777;
+}
+
+center img {
+	width:100%;
+	height:auto;
+}
+
+center p {
+	width:82%;
+	color: #ca0973;
+	margin-bottom:40px;
+	font-style:italic;
+	font-size:1.2em;
+}
+
+center a {
+	display:block;
+	width:35%;
+	text-decoration:none;
+	border:10px solid #ca0973;
+	border-radius:15px;
+	background-color: #ca0973;
+	margin:40px;
+	color:#fff;
+	font-size:small;
+}
+
+/* Used to style the jQuery tooptip */
+.ui-tooltip {
+	font-size: 9px;
+}
+
