@@ -3,7 +3,6 @@
 	<head><meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 		<title>Valentine's Day Card</title>
 		<meta name="viewport" content="width=device-width,initial-scale=1.0">
-		<link href="css/smooth/jquery-ui-1.10.3.custom.css" rel="stylesheet">
 		<link type="text/css" rel="stylesheet" href="reset.css">
 		<link rel="stylesheet" href="vex-2.0.1/css/vex.css" />
 		<link rel="stylesheet" href="vex-2.0.1/css/vex-theme-default.css" />
